@@ -1,0 +1,16 @@
+spring:
+  jackson:
+    default-property-inclusion: non_null
+  datasource:
+    url: "jdbc:mysql://localhost:3306/library_db"
+    username:
+    password:
+  h2:
+    console:
+      enabled: true
+  jpa:
+    hibernate:
+      ddl-auto: none
+  devtools:
+    restart:
+      enabled: false

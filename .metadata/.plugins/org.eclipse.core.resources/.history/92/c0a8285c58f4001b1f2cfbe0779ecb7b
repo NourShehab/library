@@ -1,0 +1,8 @@
+package maven.nour;
+
+public class Bike {
+
+	public void Ride() {
+		System.out.println("Cycling");
+	}
+}
