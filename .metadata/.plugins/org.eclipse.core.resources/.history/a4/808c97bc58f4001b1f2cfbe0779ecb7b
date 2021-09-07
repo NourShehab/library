@@ -1,8 +1,0 @@
-package maven.nour;
-
-public class Bike {
-
-	public void drive() implements Vehicle {
-		System.out.println("Cycling");
-	}
-}

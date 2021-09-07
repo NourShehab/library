@@ -1,6 +1,0 @@
-package topic;
-
-@Service
-public class TopicService {
-
-}
